@@ -79,6 +79,6 @@ When is BFS preferred over DFS?
 BFS is preferred when the shortest path is needed in an unweighted graph.
 <br>
 
- ##  What are the limitations of DFS?<br>
+What are the limitations of DFS?<br>
 <br>
 DFS may consume more memory because of recursion depth and does not always produce the shortest path.
