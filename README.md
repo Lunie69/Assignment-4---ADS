@@ -47,7 +47,7 @@ Responsible for: <br>
  <img width="1920" height="1020" alt="{2F073A2C-5557-4310-82D8-457FE2E29F0F}" src="https://github.com/user-attachments/assets/afe64bc3-e99f-47eb-beac-514a478df7d3" /><br>
 <br>
 <br>
- ## How does graph size affect BFS and DFS performance?
+## How does graph size affect BFS and DFS performance?
  <br>
 
 As the graph size increases, traversal time also increases because more vertices and edges must be processed.
@@ -74,6 +74,7 @@ Traversal order depends on how vertices are connected in the adjacency list. Dif
 
 <br>
 ## When is BFS preferred over DFS?
+
 <br>
 BFS is preferred when the shortest path is needed in an unweighted graph.
 <br>
